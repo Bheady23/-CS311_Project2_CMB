@@ -1,0 +1,17 @@
+C:\Users\chris\source\repos\CS311_Project2_CMB\bin\Debug\net6.0-windows\CS311_Project2_CMB.exe
+C:\Users\chris\source\repos\CS311_Project2_CMB\bin\Debug\net6.0-windows\CS311_Project2_CMB.deps.json
+C:\Users\chris\source\repos\CS311_Project2_CMB\bin\Debug\net6.0-windows\CS311_Project2_CMB.runtimeconfig.json
+C:\Users\chris\source\repos\CS311_Project2_CMB\bin\Debug\net6.0-windows\CS311_Project2_CMB.dll
+C:\Users\chris\source\repos\CS311_Project2_CMB\bin\Debug\net6.0-windows\CS311_Project2_CMB.pdb
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.frmCraps.resources
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.AssemblyInfo.cs
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.dll
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\refint\CS311_Project2_CMB.dll
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.pdb
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\CS311_Project2_CMB.genruntimeconfig.cache
+C:\Users\chris\source\repos\CS311_Project2_CMB\obj\Debug\net6.0-windows\ref\CS311_Project2_CMB.dll
