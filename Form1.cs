@@ -140,7 +140,7 @@ namespace CS311_Project2_CMB
                         break;
 
                     case 2:
-                        lblWinLosePoint.Text = ("Craps! House Wins");
+                        lblWinLosePoint.Text = ("You Lose!");
                         Console.WriteLine(lblWinLosePoint.Text);
                         bank = bank - bet;
                         lblBank.Text = "$" + bank.ToString("0.00");
@@ -149,7 +149,7 @@ namespace CS311_Project2_CMB
                         break;
 
                     case 3:
-                        lblWinLosePoint.Text = ("Craps! House Wins");
+                        lblWinLosePoint.Text = ("You Lose!");
                         Console.WriteLine(lblWinLosePoint.Text);
                         bank = bank - bet;
                         lblBank.Text = "$" + bank.ToString("0.00");
@@ -158,7 +158,7 @@ namespace CS311_Project2_CMB
                         break;
 
                     case 12:
-                        lblWinLosePoint.Text = ("Craps! House Wins");
+                        lblWinLosePoint.Text = ("You Lose!");
                         Console.WriteLine(lblWinLosePoint.Text);
                         bank = bank - bet;
                         lblBank.Text = "$" + bank.ToString("0.00");
@@ -204,7 +204,7 @@ namespace CS311_Project2_CMB
                 switch (diceSum)
                 {
                     case 7:
-                        lblWinLosePoint.Text = ("Craps! House Wins");
+                        lblWinLosePoint.Text = ("You Lose!");
                         Console.WriteLine(lblWinLosePoint.Text);
                         bank = bank - bet;
                         lblBank.Text = "$" + bank.ToString("0.00");
